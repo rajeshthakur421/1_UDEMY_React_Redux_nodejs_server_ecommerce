@@ -1,0 +1,80 @@
+1. Magic Submission (Intellect)
+
+    Product
+
+    The product has a number of capabilities including automatic classification, contextual extraction and validation, 
+    upfront appetite check with knockout, clearance check, risk data enrichment, dynamic business rule application, 
+    submission prioritisation, data normalisation and integration in required formats.
+
+    AI Models
+    
+    Magic Submission is the most sophisticated AI-powered intelligent document ingestion technology with domain-trained AI models
+    to automatically read, understand and contextually process multi-line submission documents. The powerful ML (machine learning)
+    models can ingest submissions from any channel and understand any document type including emails, ACORD forms, loss runs, broker
+    specifications, carrier supplemental forms, statement of values (SOV), excel exposures and unstructured statements.
+
+    In this project i worked on these modules
+
+    New feature implementation
+    Handle the multiple usecases and tenant
+    Data transformation with multiple services
+
+
+
+2. Team Center User Management (ATOS) 
+
+    Teamcenter is project where we can create a user for simens employee and give authorization what they can access.
+    create a goup, roles.
+
+    Technology: Node, Express , React, MongoDB
+    Role: Developer
+    Module:
+    SSO implementation using Siemens API
+    User create
+    Group and role
+    Third Party API implementation SCD
+
+3. Cardbuzz (scandid)
+
+    Technology: Node, Express, React, Redux, MySql,
+    Role: Developer
+    Module:
+    Product listing, details
+    Deal listing and details
+    Coupons listing, coupons codes on offers
+    Data fetch using third party API
+
+4. Skyfreeshop (scandid)
+
+    Technology: Node, React, Bootstrap, MySql,
+    Role: Developer
+    Module:
+    Flight booking details section,
+    Coupon apply section
+    Internationalization
+    Currency manage on different country
+    Notification
+    Database manage
+
+
+5. Skilldevelopers (YashaaGlobal) 
+
+    Technology: Node, Angular
+    Role: Developer
+    Module:
+    Build reusable libraries for future use.
+    Payment getaway payee.
+    CMS Module
+
+
+6. Ariashospital (YashaaGlobal)
+
+    Technology: Laravel, HTML5, CSS3, Bootstrap 4, JavaScript, jQuery.
+    Role: Developer
+    Module:
+    Database designs
+    Doctor and patient module
+    Online appointment book module
+
+
+

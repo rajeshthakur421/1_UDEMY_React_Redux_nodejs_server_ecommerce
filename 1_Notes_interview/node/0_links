@@ -1,0 +1,197 @@
+1.Node advantage and disadvantage
+https://www.geeksforgeeks.org/the-pros-and-cons-of-node-js-in-web-development/
+https://anywhere.epam.com/en/blog/node-js-pros-and-cons#:~:text=Its%20event%2Ddriven%20nature%2C%20microservices,the%20performance%20of%20your%20application.
+
+2. How node js works?
+https://www.geeksforgeeks.org/explain-the-working-of-node-js/
+https://medium.com/@asiandigitalhub/what-is-node-js-and-how-it-work-490f5ecba665
+https://www.geeksforgeeks.org/how-node-js-works-behind-the-scene/
+
+3. why it is single threaded? 
+https://www.geeksforgeeks.org/why-node-js-is-a-single-threaded-language/
+https://www.codementor.io/@sourabh674/why-is-node-js-single-threaded-2788z4tle9
+https://www.geeksforgeeks.org/is-node-js-entirely-based-on-a-single-thread/
+https://nodejs.org/api/worker_threads.html
+
+4. What is event loop? 
+https://www.geeksforgeeks.org/node-js-event-loop/#:~:text=The%20event%20loop%20is%20a,js.
+https://nodejs.org/en/learn/asynchronous-work/event-loop-timers-and-nexttick
+https://www.tutorialspoint.com/nodejs/nodejs_event_loop.htm
+
+5. Process.nexttick() and setimmediate() 
+https://www.geeksforgeeks.org/difference-between-process-nexttick-and-setimmediate-methods/
+https://medium.com/dkatalis/eventloop-in-nodejs-settimeout-setimmediate-vs-process-nexttick-37c852c67acb
+https://nodejs.org/en/learn/asynchronous-work/event-loop-timers-and-nexttick
+
+6. What is event emitter? 
+https://www.geeksforgeeks.org/what-is-eventemitter-in-node-js/#:~:text=EventEmitter%20is%20a%20class%20in,set%20of%20operations%20is%20performed.
+https://nodejs.org/en/learn/asynchronous-work/the-nodejs-event-emitter
+https://www.geeksforgeeks.org/node-js-eventemitter/
+https://medium.com/developers-arena/nodejs-event-emitters-for-beginners-and-for-experts-591e3368fdd2
+
+7. What is callback? 
+https://www.geeksforgeeks.org/node-js-callback-concept/
+https://www.tutorialspoint.com/nodejs/nodejs_callbacks_concept.htm
+https://www.geeksforgeeks.org/callbacks-and-events-in-node-js/
+
+8. Async and await 
+https://blog.postman.com/understanding-async-await-in-node-js/
+https://www.geeksforgeeks.org/async-await-in-node-js/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function
+
+
+9. What is model is node js? 
+https://medium.com/@developerom/model-class-in-nodejs-451092ca0c93
+https://www.w3schools.com/nodejs/ref_modules.asp
+
+10. What is Promises in node js? 
+https://www.geeksforgeeks.org/promises-in-node-js/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+https://www.geeksforgeeks.org/difference-between-promise-and-async-await-in-node-js/
+
+11. Asynchronous and non blocking 
+https://www.geeksforgeeks.org/difference-between-asynchronous-and-non-blocking/
+https://www.codewithc.com/node-js-asynchronous-vs-non-blocking/?amp=1
+
+12. Async/await and promises 
+https://www.geeksforgeeks.org/difference-between-promise-and-async-await-in-node-js/#:~:text=Promise%20is%20an%20object%20representing,%E2%80%93%20resolved%2C%20rejected%20and%20pending.
+https://medium.com/@punitkmr/what-are-async-await-98c2869e4c4e
+https://javascript.info/async
+
+13. What is jwt?
+https://jwt.io/introduction
+https://www.geeksforgeeks.org/json-web-token-jwt/
+https://www.akana.com/blog/what-is-jwt
+https://blog.postman.com/what-is-jwt/
+
+14. Middleware
+https://www.geeksforgeeks.org/middleware-in-express-js/
+https://medium.com/@arorashivansh2661992/middleware-in-node-js-ed4eee917ff0
+https://www.geeksforgeeks.org/explain-the-concept-of-middleware-in-nodejs/
+
+15. HTTP methods? 
+https://www.w3schools.com/nodejs/ref_http.asp
+https://nodejs.org/api/http.html
+https://www.geeksforgeeks.org/express-js-http-methods/
+https://www.geeksforgeeks.org/node-js-http-module/
+https://www.tutorialspoint.com/expressjs/expressjs_http_methods.htm
+
+16. Difference between put and post
+https://byjus.com/gate/difference-between-put-and-post-http-request/#:~:text=The%20PUT%20method%20is%20used,to%20add%20a%20child%20resource.&text=It%20can%20be%20cached.
+https://www.geeksforgeeks.org/what-is-the-difference-between-put-post-and-patch-in-restful-api/
+https://www.geeksforgeeks.org/diffrence-between-put-and-post-http-requests/
+
+17. Difference between asynchronous and synchronous 
+https://www.geeksforgeeks.org/difference-between-synchronous-and-asynchronous-method-of-fs-module/
+https://www.geeksforgeeks.org/synchronous-and-asynchronous-in-javascript/
+https://nodejs.org/en/learn/asynchronous-work/javascript-asynchronous-programming-and-callbacks
+
+
+18. What is sequlize database? 
+https://www.geeksforgeeks.org/how-to-use-sequelize-in-node-js/
+https://medium.com/@rishu__2701/node-js-database-magic-exploring-the-powers-of-sequelize-orm-a22a521d9d9d
+
+19. MongoDB and MySQL
+https://aws.amazon.com/compare/the-difference-between-mongodb-vs-mysql/#:~:text=MongoDB%20and%20MySQL%20are%20two,in%20a%20more%20flexible%20format.
+https://www.geeksforgeeks.org/mongodb-vs-mysql/
+https://www.mongodb.com/resources/compare/mongodb-mysql
+
+20. Streams in node js? 
+https://nodejs.org/api/stream.html
+https://www.geeksforgeeks.org/node-js-streams/
+https://www.tutorialspoint.com/nodejs/nodejs_streams.htm
+https://www.geeksforgeeks.org/node-js-stream-complete-reference/
+
+21. REPL 
+https://nodejs.org/api/repl.html
+https://www.geeksforgeeks.org/node-js-repl-read-eval-print-loop/
+https://www.tutorialspoint.com/nodejs/nodejs_repl_terminal.htm
+
+22. Callback hell 
+https://www.geeksforgeeks.org/what-is-callback-hell-in-node-js/
+https://www.geeksforgeeks.org/how-to-avoid-callback-hell-in-node-js/
+https://medium.com/@avinashkumar151199/what-is-callback-hell-a4594574e3c7
+
+23. URL module 
+https://www.w3schools.com/nodejs/nodejs_url.asp
+https://nodejs.org/api/url.html
+https://www.geeksforgeeks.org/node-js-url-method/
+https://medium.com/@JavaScript-World/node-js-url-module-parsing-and-manipulating-urls-ff48777d1994
+https://www.tutorialspoint.com/nodejs/nodejs_url_module.htm
+
+24. ESLint 
+https://eslint.org/docs/latest/integrate/nodejs-api
+https://www.geeksforgeeks.org/eslint-pluggable-javascript-linter/
+
+25. Micro-services 
+https://radixweb.com/blog/building-microservices-with-node-js
+https://medium.com/@dmytro.misik/writing-a-microservice-using-node-js-a945ca26d7a8
+
+26. Cryptography 
+https://www.w3schools.com/nodejs/ref_crypto.asp
+https://nodejs.org/api/crypto.html
+https://www.geeksforgeeks.org/what-is-crypto-module-in-node-js-and-how-it-is-used/
+
+27. REST API's 
+https://blog.postman.com/how-to-create-a-rest-api-with-node-js-and-express/
+https://www.tutorialspoint.com/nodejs/nodejs_restful_api.htm
+https://medium.com/@holasoymalva/how-to-make-your-first-rest-api-in-node-js-82c05fca9106
+https://www.geeksforgeeks.org/what-is-rest-api-in-node-js/
+
+28. NPM 
+https://www.w3schools.com/nodejs/nodejs_npm.asp
+https://nodejs.org/en/learn/getting-started/an-introduction-to-the-npm-package-manager
+https://www.geeksforgeeks.org/node-js-npm-node-package-manager/
+
+29. Debug an application
+https://nodejs.org/en/learn/getting-started/debugging
+https://www.geeksforgeeks.org/node-js-debugging/
+
+30. Version Cntrol Systems 
+https://www.geeksforgeeks.org/version-control-systems/
+
+31. Types of api in node
+https://stoplight.io/api-types
+https://www.techtarget.com/searchapparchitecture/tip/What-are-the-types-of-APIs-and-their-differences
+https://nodejs.org/api/n-api.html
+
+32. What is server side pagination and how's it possible?
+https://medium.com/@akhilanand.ak01/implementing-server-side-pagination-in-react-with-node-js-and-express-417d1c480630#:~:text=Server%2Dside%20pagination%20is%20a,a%20React%20application%20using%20Node.
+https://medium.com/@kannankannan18/client-side-pagination-vs-server-side-pagination-576a8f57257d#:~:text=When%20the%20backend%2Fserver%20only,returned%20to%20the%20front%20end.
+https://medium.com/knowledge-pills/what-is-serve-side-paging-f9f4b8f3590f
+https://outsystemsui.outsystems.com/OutSystemsDataGridSample/ServerSidePagination?ItemId=11
+https://www.geeksforgeeks.org/how-to-do-pagination-node-js-with-mysql/
+
+33. Ways to handle multiple requests
+https://www.geeksforgeeks.org/how-to-run-many-parallel-http-requests-using-node-js/#:~:text=How%20NodeJS%20handle%20multiple%20client,receives%20requests%20and%20processes%20them.
+https://medium.com/@kumuthini.program/how-does-nodejs-handle-multiple-requests-97a2b094e762
+https://polcode.com/resources/blog/how-to-handle-thousands-of-requests-efficiently-node-js-secrets-uncovered/
+https://medium.com/@abhinavcv007/how-to-handle-multiple-api-requests-in-your-nodejs-application-cfa298e11b28
+https://www.reddit.com/r/node/comments/11e5hyj/executing_1000_http_requests_at_once/
+
+34.  
+35. Handle errors
+https://www.geeksforgeeks.org/how-to-handle-errors-in-node-js/
+https://stackify.com/node-js-error-handling/
+https://nodejs.org/api/errors.html
+https://medium.com/backenders-club/error-handling-in-node-js-ef5cbfa59992
+
+36. 
+37. Optimize Node.js applications
+https://raygun.com/blog/improve-node-performance/
+https://medium.com/appcent/node-js-performance-optimization-techniques-and-tools-72348c26c678
+
+38. How to secure api in node
+https://www.turing.com/kb/build-secure-rest-api-in-nodejs
+https://www.toptal.com/nodejs/secure-rest-api-in-nodejs
+https://skillgigs.com/business-insights/how-to-create-a-secure-rest-api-in-node-js/
+https://www.peerbits.com/blog/create-secure-rest-api-in-node-js.html
+
+39. How to do Error Handling and Logging using node 
+https://www.geeksforgeeks.org/how-to-handle-errors-in-node-js/
+https://medium.com/google-cloud/whats-the-best-way-to-log-errors-in-node-js-b3dfd2fe07a7
+https://www.toptal.com/nodejs/node-js-error-handling
+
+40. Aws EC2, lambda
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html
+https://www.geeksforgeeks.org/what-is-elastic-compute-cloud-ec2/

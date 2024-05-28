@@ -1,0 +1,163 @@
+1. callback hooks
+https://www.w3schools.com/react/react_usecallback.asp
+https://react.dev/reference/react/useCallback
+https://www.geeksforgeeks.org/react-js-usecallback-hook/
+
+2. custom hooks
+https://www.w3schools.com/react/react_customhooks.asp
+https://legacy.reactjs.org/docs/hooks-custom.html
+https://www.geeksforgeeks.org/reactjs-custom-hooks/
+
+3. component LIfecycle
+https://www.w3schools.com/react/react_lifecycle.asp
+https://www.geeksforgeeks.org/reactjs-lifecycle-components/
+https://www.tutorialspoint.com/reactjs/reactjs_component_life_cycle.htm
+https://www.geeksforgeeks.org/explain-lifecycle-methods-of-react-components/
+
+4. child to parent component call
+https://medium.com/@s.salman0193/calling-parent-components-function-from-child-component-in-react-js-e2d550ccd66b#:~:text=Method%201%3A%20Callback%20Functions,call%20from%20the%20child%20component.
+https://www.geeksforgeeks.org/how-to-pass-data-from-child-component-to-its-parent-in-reactjs/
+https://www.geeksforgeeks.org/how-to-call-parent-componentss-function-from-child-component-in-react/
+
+5. useState
+https://www.geeksforgeeks.org/reactjs-usestate-hook/
+https://www.w3schools.com/react/react_usestate.asp
+https://www.geeksforgeeks.org/what-is-usestate-in-react/
+
+6. class base and function based
+https://www.geeksforgeeks.org/differences-between-functional-components-and-class-components/
+https://blog.geekster.in/functional-components-vs-class-components/
+https://www.reddit.com/r/reactjs/comments/zqo6th/functional_vs_class_components/
+
+7. props
+https://www.w3schools.com/react/react_props.asp
+https://www.geeksforgeeks.org/reactjs-props-set-1/
+https://legacy.reactjs.org/docs/components-and-props.html
+
+8. router
+https://www.w3schools.com/react/react_router.asp
+https://www.tutorialspoint.com/reactjs/reactjs_routing.htm
+
+9. hook
+https://www.w3schools.com/react/react_hooks.asp
+https://www.geeksforgeeks.org/reactjs-hooks/
+
+10. contextApi
+https://www.w3schools.com/react/react_usecontext.asp
+https://www.freecodecamp.org/news/context-api-in-react/
+https://www.geeksforgeeks.org/explain-new-context-api-in-react/
+https://blog.logrocket.com/react-context-api-deep-dive-examples/
+
+11. useCallback
+https://www.w3schools.com/react/react_usecallback.asp
+https://www.geeksforgeeks.org/react-js-usecallback-hook/
+
+12. jsx
+https://www.w3schools.com/react/react_jsx.asp
+https://www.geeksforgeeks.org/reactjs-jsx-introduction/
+https://www.freecodecamp.org/news/jsx-in-react-introduction/
+
+13. render
+https://www.w3schools.com/react/react_render.asp
+https://www.geeksforgeeks.org/explain-the-purpose-of-render-in-reactjs/
+
+14. onclick button show increment and decrement
+https://www.geeksforgeeks.org/how-to-make-incremental-and-decremental-counter-using-html-css-and-javascript/
+
+15. react features
+https://www.geeksforgeeks.org/what-are-the-features-of-reactjs/
+https://www.tutorialspoint.com/reactjs/reactjs_features.htm
+
+16. Can web browsers read JSX directly?
+https://www.geeksforgeeks.org/why-cant-browsers-read-jsx/
+https://dev.to/cloud_developr/why-can-t-browsers-read-jsx-5boc
+https://iq.js.org/questions/react/do-browsers-understand-jsx-code#:~:text=No%2C%20browsers%20can't%20understand,transpiler%20right%20now%20is%20Babel.
+
+17. virtual DOM
+https://www.geeksforgeeks.org/reactjs-virtual-dom/
+https://www.geeksforgeeks.org/how-to-understand-by-virtual-dom/
+https://legacy.reactjs.org/docs/faq-internals.html
+
+18. differences between state and props
+https://www.geeksforgeeks.org/what-are-the-differences-between-props-and-state/
+https://www.javatpoint.com/react-state-vs-props
+https://www.geeksforgeeks.org/reactjs-state-vs-props/
+
+19. higher-order component
+https://www.geeksforgeeks.org/react-js-higher-order-components/
+https://legacy.reactjs.org/docs/higher-order-components.html
+https://www.freecodecamp.org/news/higher-order-components-in-react/
+https://www.geeksforgeeks.org/how-to-use-higher-order-components-in-react/
+
+20. lifecycle methods of components
+https://www.w3schools.com/react/react_lifecycle.asp
+https://www.geeksforgeeks.org/reactjs-lifecycle-components/
+https://www.geeksforgeeks.org/explain-lifecycle-methods-of-react-components/
+
+21. What is React and how does it differ from other JavaScript frameworks/libraries?
+https://codedamn.com/news/reactjs/how-is-react-different-from-other-javascript-frameworks-like-angular-or-vue
+https://javascript.plainenglish.io/how-is-reactjs-different-from-other-javascript-libraries-494b56459344
+https://www.geeksforgeeks.org/why-is-react-considered-a-library-and-not-a-framework/
+
+22. What are the benefits of using React?
+https://www.geeksforgeeks.org/what-are-the-advantages-of-react-js/
+https://www.javatpoint.com/pros-and-cons-of-react
+https://www.geeksforgeeks.org/what-are-the-advantages-of-using-redux-with-reactjs/
+https://www.devstringx.com/pros-and-cons-of-using-react
+
+23. How do you handle events in React?
+https://www.w3schools.com/react/react_events.asp
+https://legacy.reactjs.org/docs/handling-events.html
+https://www.freecodecamp.org/news/how-to-handle-events-in-react-19/
+
+24. What is Redux and how is it used in React?
+https://www.geeksforgeeks.org/what-are-the-advantages-of-using-redux-with-reactjs/
+https://www.tutorialspoint.com/reactjs/reactjs_redux.htm
+https://www.geeksforgeeks.org/react-redux-tutorial/
+https://medium.com/swlh/what-is-redux-b16b42b33820
+
+25. Explain the differences between controlled and uncontrolled components in React.
+https://www.scaler.com/topics/react/controlled-and-uncontrolled-components-in-react/#:~:text=In%20a%20controlled%20component%20react,and%20where%20to%20insert%20it.
+https://www.geeksforgeeks.org/controlled-vs-uncontrolled-components-in-reactjs/
+https://www.javatpoint.com/react-controlled-vs-uncontrolled-component
+https://medium.com/tech-tajawal/controlled-and-uncontrolled-components-in-react-6d5f260b46dd
+https://www.geeksforgeeks.org/what-are-controlled-components-in-reactjs/
+
+26. What is server-side rendering (SSR) and why is it important in React?
+https://www.tutorialspoint.com/a-guide-to-server-side-rendering-in-react
+https://www.geeksforgeeks.org/what-is-server-side-rendering-in-react/
+https://medium.com/simform-engineering/how-to-implement-ssr-server-side-rendering-in-react-18-e49bc43e9531
+
+27. How do you optimize React performance?
+https://www.geeksforgeeks.org/how-to-optimize-the-performance-of-react-app/
+https://www.freecodecamp.org/news/react-performance-optimization-techniques/
+https://hackernoon.com/best-practices-for-react-performance-optimization
+https://www.geeksforgeeks.org/optimizing-performance-in-reactjs/
+
+28. Explain the concept of hooks in React.
+https://legacy.reactjs.org/docs/hooks-overview.html#:~:text=Hooks%20are%20functions%20that%20let,if%20you'd%20like.)
+https://www.w3schools.com/react/react_hooks.asp
+https://www.freecodecamp.org/news/react-hooks-fundamentals/
+https://www.geeksforgeeks.org/introduction-to-react-hooks/
+
+29. What are some best practices for writing React code?
+https://www.freecodecamp.org/news/best-practices-for-react/
+https://www.tutorialspoint.com/reactjs/reactjs_best_practices.htm
+
+30. session storage 
+https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage
+https://www.w3schools.com/jsref/prop_win_sessionstorage.asp
+https://www.freecodecamp.org/news/web-storage-localstorage-vs-sessionstorage-in-javascript/
+
+31. higher order function
+https://www.freecodecamp.org/news/higher-order-functions-what-they-are-and-a-react-example-1d2579faf101/
+ 
+32. react suspense and lazy
+https://legacy.reactjs.org/docs/code-splitting.html
+https://www.freecodecamp.org/news/react-suspense/
+https://dev.to/tmns/uselazyload-code-splitting-in-react-without-suspense-4e2o
+
+33. webpacks
+https://dev.to/mbarzeev/everything-you-need-to-know-about-webpacks-bundle-analyzer-g0l
+https://blog.jakoblind.no/webpack-bundle-analyzer/
+

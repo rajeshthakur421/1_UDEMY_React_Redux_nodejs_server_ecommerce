@@ -1,0 +1,152 @@
+1.Synchronous and asynchronous 
+https://www.geeksforgeeks.org/difference-between-synchronous-and-asynchronous-transmission/
+https://www.w3schools.com/js/js_asynchronous.asp
+https://www.geeksforgeeks.org/asynchronous-javascript/
+https://www.geeksforgeeks.org/synchronous-and-asynchronous-in-javascript/
+https://www.w3schools.com/js/js_async.asp
+
+
+2.Callbacks
+https://www.w3schools.com/js/js_callback.asp
+https://www.geeksforgeeks.org/javascript-callbacks/
+
+3. Event loop 
+https://www.geeksforgeeks.org/what-is-an-event-loop-in-javascript/
+https://www.geeksforgeeks.org/what-is-an-event-loop-in-javascript/
+https://nodejs.org/en/learn/asynchronous-work/event-loop-timers-and-nexttick
+
+
+4. Promises 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+https://www.w3schools.com/js/js_promise.asp
+https://www.geeksforgeeks.org/javascript-promise/
+https://www.w3schools.com/jsref/jsref_obj_promise.asp
+
+5. Hoisting 
+https://www.w3schools.com/js/js_hoisting.asp
+https://www.geeksforgeeks.org/javascript-hoisting/
+https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
+
+6. Arrow functions 
+https://www.w3schools.com/js/js_arrow_function.asp
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+https://www.geeksforgeeks.org/arrow-functions-in-javascript/
+
+7. Clouser 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
+https://www.geeksforgeeks.org/closure-in-javascript/
+https://www.geeksforgeeks.org/difference-between-scope-and-closures-in-javascript/
+
+8. Debouncing and throttling 
+https://www.geeksforgeeks.org/difference-between-debouncing-and-throttling/
+https://www.geeksforgeeks.org/difference-between-debouncing-throttling-in-javascript/
+
+9. Call,Apply,bind 
+https://www.geeksforgeeks.org/explain-call-apply-and-bind-methods-in-javascript/
+https://www.freecodecamp.org/news/understand-call-apply-and-bind-in-javascript-with-examples/
+
+10. Map 
+https://www.w3schools.com/jsref/jsref_map.asp
+https://www.geeksforgeeks.org/javascript-array-map-method/
+https://www.w3schools.com/js/js_maps.asp
+
+11. Object Data Types: 
+https://www.w3schools.com/js/js_datatypes.asp
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
+https://www.geeksforgeeks.org/primitive-and-non-primitive-data-types-in-javascript/
+
+12. Events 
+https://www.w3schools.com/js/js_events.asp
+https://www.geeksforgeeks.org/javascript-events/
+https://www.tutorialspoint.com/javascript/javascript_events.htm
+
+13. Server 
+14. Object referencing 
+https://www.w3schools.com/jsref/jsref_obj_object.asp
+https://www.geeksforgeeks.org/javascript-object-reference/
+
+15. Object copying 
+https://www.geeksforgeeks.org/how-to-clone-a-javascript-object/
+https://developer.mozilla.org/en-US/docs/Glossary/Deep_copy
+https://www.freecodecamp.org/news/clone-an-object-in-javascript/
+
+16. 
+17. 
+18. Function expression 
+https://www.geeksforgeeks.org/javascript-function-expression/
+https://developer.mozilla.org/en/docs/web/JavaScript/Reference/Operators/function
+https://www.w3schools.com/js/js_function_definition.asp
+
+19. IIFE 
+https://www.geeksforgeeks.org/what-are-iife-immediately-invoked-function-expressions/
+https://circleci.com/blog/ci-cd-for-js-iifes/#:~:text=A%20JavaScript%20IIFE%20(Immediately%20Invoked,useful%20for%20several%20use%20cases.
+https://developer.mozilla.org/en-US/docs/Glossary/IIFE
+
+20. Array methods 
+https://www.w3schools.com/js/js_array_methods.asp
+https://www.geeksforgeeks.org/javascript-array-methods/
+
+21. Execution context 
+https://www.freecodecamp.org/news/how-javascript-works-behind-the-scene-javascript-execution-context/
+https://www.geeksforgeeks.org/execution-context-in-javascript/
+
+22. Filter() 
+https://www.w3schools.com/jsref/jsref_filter.asp
+https://www.geeksforgeeks.org/how-to-filter-an-array-in-javascript/
+https://www.tutorialspoint.com/javascript/array_filter.htm
+
+23. Reduce 
+https://www.w3schools.com/jsref/jsref_reduce.asp
+https://www.geeksforgeeks.org/javascript-array-reduce-method/
+https://www.tutorialspoint.com/javascript/array_reduce.htm
+
+24. Event bubbling/capturing/delegation 
+https://medium.com/@magenta2127/event-bubbling-and-event-delegation-4209bf40575c
+https://www.geeksforgeeks.org/event-delegation-in-javascript/
+
+25. Prototypal inheritance 
+https://javascript.info/prototype-inheritance
+https://www.geeksforgeeks.org/explain-prototype-inheritance-in-javascript/
+https://www.geeksforgeeks.org/prototypal-inheritance-using-__proto__-in-javascript/
+
+
+26. Currying 
+https://www.geeksforgeeks.org/what-is-currying-function-in-javascript/
+https://www.tutorialspoint.com/javascript/javascript_currying.htm
+https://www.geeksforgeeks.org/why-is-currying-in-javascript-useful/
+
+27, Memoization 
+https://www.geeksforgeeks.org/javascript-memoization/
+https://www.freecodecamp.org/news/memoization-in-javascript-and-react/
+https://www.geeksforgeeks.org/how-to-write-a-simple-code-of-memoization-function-in-javascript/
+
+28. Micro/macro tasks 
+https://www.geeksforgeeks.org/what-are-the-microtask-and-macrotask-within-an-event-loop-in-javascript/
+
+29. SetTimeout v/s setInterval 
+https://www.geeksforgeeks.org/java-script-settimeout-setinterval-method/\
+https://www.geeksforgeeks.org/difference-between-settimeout-setinterval/
+
+30. ES6 Arrow Function 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+https://www.w3schools.com/js/js_arrow_function.asp
+https://www.geeksforgeeks.org/es6-arrow-function/
+https://www.geeksforgeeks.org/arrow-functions-in-javascript/
+
+31. Prototype 
+https://www.w3schools.com/js/js_object_prototypes.asp
+https://www.geeksforgeeks.org/prototype-in-javascript/
+
+32. Advanmtage and Disadvantages of Javascript. 
+https://www.geeksforgeeks.org/advantages-and-disadvantages-of-javascript/
+https://www.tutorialspoint.com/advantages-and-disadvantages-of-javascript
+
+33. Spread operator 
+https://www.w3schools.com/react/react_es6_spread.asp
+https://www.w3schools.com/howto/howto_js_spread_operator.asp
+https://www.geeksforgeeks.org/javascript-spread-operator/
+
+34. == and === operators 
+https://www.tutorialspoint.com/difference-between-and-operator-in-javascript
+
+35. Javascripts programs
