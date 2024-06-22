@@ -1,7 +1,7 @@
 const Student = require("../models/student");
 
 // Example of creating a new student
-const createStudent = async (req, res) => {
+exports.createStudent = async (req, res) => {
   try {
     const { name, age, gender } = req.body;
     const student = new Student({ name, age, gender });
@@ -13,7 +13,7 @@ const createStudent = async (req, res) => {
 };
 
 // Controller function to get a student by ID
-const getStudentById = async (req, res) => {
+exports.getStudentById = async (req, res) => {
   const { studentId } = req.params;
   try {
     const student = await Student.findById(studentId);
@@ -29,7 +29,7 @@ const getStudentById = async (req, res) => {
 };
 
 // Controller function to update a student by ID
-const updateStudent = async (req, res) => {
+exports.updateStudent = async (req, res) => {
   const { studentId } = req.params;
   const updateFields = req.body; // Fields to update
 
@@ -53,7 +53,7 @@ const updateStudent = async (req, res) => {
 };
 
 // Controller function to delete a student by ID
-const deleteStudent = async (req, res) => {
+exports.deleteStudent = async (req, res) => {
   const { studentId } = req.params;
   try {
     const deletedStudent = await Student.findByIdAndDelete(studentId);
@@ -68,7 +68,7 @@ const deleteStudent = async (req, res) => {
 };
 
 // Controller function to get all students
-const getAllStudents = async (req, res) => {
+exports.getAllStudents = async (req, res) => {
   try {
     const students = await Student.find();
     res.status(200).json({ students });
@@ -76,5 +76,3 @@ const getAllStudents = async (req, res) => {
     res.status(500).json({ error: error.message });
   }
 };
-
-module.exports = { createStudent };

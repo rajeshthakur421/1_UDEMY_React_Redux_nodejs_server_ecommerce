@@ -1,4 +1,4 @@
-1.Node advantage and disadvantage
+1.Node 
 https://www.geeksforgeeks.org/the-pros-and-cons-of-node-js-in-web-development/
 https://anywhere.epam.com/en/blog/node-js-pros-and-cons#:~:text=Its%20event%2Ddriven%20nature%2C%20microservices,the%20performance%20of%20your%20application.
 
@@ -53,7 +53,7 @@ https://www.geeksforgeeks.org/difference-between-promise-and-async-await-in-node
 https://www.geeksforgeeks.org/difference-between-asynchronous-and-non-blocking/
 https://www.codewithc.com/node-js-asynchronous-vs-non-blocking/?amp=1
 
-12. Async/await and promises 
+12. Async await and promises 
 https://www.geeksforgeeks.org/difference-between-promise-and-async-await-in-node-js/#:~:text=Promise%20is%20an%20object%20representing,%E2%80%93%20resolved%2C%20rejected%20and%20pending.
 https://medium.com/@punitkmr/what-are-async-await-98c2869e4c4e
 https://javascript.info/async

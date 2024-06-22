@@ -1,6 +1,6 @@
 Certainly! Here are a few examples of using callbacks in JavaScript:
 
-1. **Basic Callback Example**:
+1. //**Basic Callback Example**:
    
   
    function greet(name, callback) {
@@ -14,8 +14,27 @@ Certainly! Here are a few examples of using callbacks in JavaScript:
    }
 
    greet('Alice', displayGreeting);
- 
-2. **Nested Callbacks**:
+
+*******
+ // Define a function that takes a callback
+function fetchData(callback) {
+    // Simulate a delay using setTimeout
+    setTimeout(() => {
+      const data = { name: 'John Doe', age: 30 };
+      // Call the callback function with the data
+      callback(data);
+    }, 1000);
+  }
+  
+  // Define the callback function
+  function handleData(data) {
+    console.log('Data received:', data);
+  }
+  
+  // Call fetchData and pass handleData as the callback
+  fetchData(handleData);
+  
+2.// **Nested Callbacks**:
 
   
    function stepOne(callback) {
@@ -51,7 +70,7 @@ Certainly! Here are a few examples of using callbacks in JavaScript:
        });
    });
   
-3. **Error Handling with Callbacks**:
+3. //**Error Handling with Callbacks**:
 
   
    function fetchData(callback) {

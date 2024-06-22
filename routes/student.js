@@ -12,7 +12,7 @@ const {
 } = require("../controllers/student");
 
 // Middleware for authentication
-const { requireSignin, isAdmin } = require("../middlewares/authMiddleware");
+const { requireSignin, isAdmin } = require("../middlewares/auth");
 
 // Route for creating a new student
 router.post("/students", createStudent);
