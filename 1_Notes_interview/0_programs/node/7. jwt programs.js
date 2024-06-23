@@ -1,3 +1,25 @@
+/*
+const jwt = require("jsonwebtoken");
+const secretKey = "your_secret_key"; // Replace with your own secret key
+const user = {
+  id: 1,
+  username: "john_doe",
+  email: "john.doe@example.com",
+};
+
+function generateToken(user) {
+  .......
+  const token = jwt.sign(payload, secretKey, { expiresIn: "1h" });
+  return token;
+}
+function verifyToken(token) {
+    ...........
+    const decoded = jwt.verify(token, secretKey);
+    return decoded;  
+}
+
+*/
+
 const jwt = require("jsonwebtoken");
 
 // Secret key used to sign the JWT
