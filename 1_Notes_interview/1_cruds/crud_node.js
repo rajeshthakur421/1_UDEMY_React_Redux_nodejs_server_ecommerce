@@ -1,13 +1,13 @@
-//1. Initialize Node.js Project:
+1;//1. Initialize Node.js Project:
 //  npm init -y
 
-//2. Install Dependencies:
+2;//2. Install Dependencies:
 // npm install express mongoose dotenv
 
-//3. Create .env file:
+3;//3. Create .env file:
 MONGODB_URI=mongodb://localhost:27017/productdb
 
-//4. Create a db.js file to handle the MongoDB connection using Mongoose:
+4;//4. Create a db.js file to handle the MongoDB connection using Mongoose:
 const mongoose = require('mongoose');
 const { MONGODB_URI } = process.env;
 
@@ -26,7 +26,7 @@ db.once('open', () => {
 
 module.exports = db;
 
-//5. Create models/Product.js: Define a Product model using Mongoose schema:
+5;//5. Create models/Product.js: Define a Product model using Mongoose schema:
 const mongoose = require('mongoose');
 
 const productSchema = new mongoose.Schema({
@@ -39,7 +39,7 @@ const Product = mongoose.model('Product', productSchema);
 
 module.exports = Product;
 
-//6. Create controllers/productController.js: Implement CRUD operations using controllers:
+6;//6. Create controllers/productController.js: Implement CRUD operations using controllers:
 const Product = require('../models/Product');
 
 // Create a new product
@@ -104,7 +104,7 @@ exports.deleteProduct = async (req, res) => {
   }
 };
 
-//7. Create routes/products.js: Define routes using Express router and connect them to controllers:
+7;//7. Create routes/products.js: Define routes using Express router and connect them to controllers:
 const express = require('express');
 const router = express.Router();
 const productController = require('../controllers/productController');
@@ -118,7 +118,7 @@ router.delete('/:id', productController.deleteProduct);
 
 module.exports = router;
 
-//8. Create app.js: Configure the Express application in app.js to use the products router.
+8;//8. Create app.js: Configure the Express application in app.js to use the products router.
 const express = require('express');
 const bodyParser = require('body-parser');
 const dotenv = require('dotenv');

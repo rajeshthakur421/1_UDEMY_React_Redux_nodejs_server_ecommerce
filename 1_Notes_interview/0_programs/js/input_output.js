@@ -52,3 +52,5 @@ console.log(`hi. ${this.lang}`);
 }
 let fn= Person.show;
 fn();
+
+

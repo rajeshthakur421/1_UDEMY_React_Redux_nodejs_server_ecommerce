@@ -15,6 +15,7 @@ const UserListPagination = () => {
         `https://jsonplaceholder.typicode.com/users?_page=${currentPage}&_limit=5`,
       );
       const data = await response.json();
+      // Extract the total count of items from the "X-Total-Count" header in the response
       const totalCount = Number(response.headers.get("X-Total-Count"));
       setTotalPages(Math.ceil(totalCount / 5)); // Assuming each page has 5 users
       setUsers(data);

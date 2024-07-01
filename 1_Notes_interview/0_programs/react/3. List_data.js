@@ -2,7 +2,6 @@ import React, { useState, useEffect } from "react";
 
 const UserList = () => {
   const [users, setUsers] = useState([]);
-
   useEffect(() => {
     // Fetch data from the API
     fetch("https://jsonplaceholder.typicode.com/users")
